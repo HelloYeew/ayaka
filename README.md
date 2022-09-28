@@ -9,3 +9,7 @@
 - Full admin theme customization
 - Full project configuration to make your project development easier and easy to deploy
 - Postgresql configuration for production
+
+## Project that use this template
+
+- [meaqua](https://github.com/HelloYeew/meaqua) - Startpage for your browser with built-in editors, full customization and built-in style sharing system
