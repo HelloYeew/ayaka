@@ -10,6 +10,11 @@
 - Full project configuration to make your project development easier and easy to deploy
 - Postgresql configuration for production
 
+## Demo
+
+![Homepage Demo](demo-homepage.png)
+![Settings Demo](demo-settings.png)
+
 ## Project that use this template
 
 - [meaqua](https://github.com/HelloYeew/meaqua) - Startpage for your browser with built-in editors, full customization and built-in style sharing system
