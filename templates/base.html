@@ -15,22 +15,20 @@
 </head>
 
 <style>
-    * {
+    body {
+        height: 100vh;
+
         {% if not user.is_authenticated or use_default_theme %}
-        --color-primary: #dfd9d6 !important;
+        --color-primary: #dfd9d6;
         --color-accent: #dbc2d1;
         --color-background:#0a0a0a;
         --mask-opacity: 0.5;
         {% else %}
-        --color-primary: {{ colour_settings.color_primary }} !important;
+        --color-primary: {{ colour_settings.color_primary }};
         --color-accent: {{ colour_settings.color_accent }};
         --color-background: {{ colour_settings.color_background }};
         --mask-opacity: {{ colour_settings.mask_opacity }};
         {% endif %}
-    }
-
-    body {
-        height: 100vh;
     }
 
     #background {
