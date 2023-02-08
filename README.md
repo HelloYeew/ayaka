@@ -18,3 +18,4 @@
 ## Project that use this template
 
 - [meaqua](https://github.com/HelloYeew/meaqua) - Startpage for your browser with built-in editors, full customization and built-in style sharing system
+- [Freedom Dive](https://github.com/HelloYeew/freedom-dive) - A private osu!lazer server that fully support custom rulesets
